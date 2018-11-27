@@ -1,0 +1,182 @@
+{"Soins": [
+	{
+		"soinId": 0,
+		"contratType": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 0,
+		"contratType": "B",
+		"pourcentage": 50,
+		"maximum":40
+	},
+	{
+		"soinId": 0,
+		"contratType": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 0,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":85
+	},
+
+	{
+		"soinId": 100,
+		"contratType": "A",
+		"pourcentage": 25,
+		"maximum":5
+	},
+	{
+		"soinId": 100,
+		"contratType": "B",
+		"pourcentage": 50,
+		"maximum":50
+	},
+	{
+		"soinId": 100,
+		"contratType": "C",
+		"pourcentage": 90,
+	},
+	{
+		"soinId": 100,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":75
+	},
+
+	{
+		"soinId": 200,
+		"contratType": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 200,
+		"contratType": "B",
+		"pourcentage": 100,
+		"maximum":70
+	},
+	{
+		"soinId": 200,
+		"contratType": "C",
+		"pourcentage": 90,
+	},
+	{
+		"soinId": 200,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":100
+	},
+
+	{
+		"soinId": 300,
+		"contratType": "A",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 300,
+		"contratType": "B",
+		"pourcentage": 50
+	},
+	{
+		"soinId": 300,
+		"contratType": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 300,
+		"contratType": "D",
+		"pourcentage": 100
+	},
+
+	{
+		"soinId": 400,
+		"contratType": "A",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 400,
+		"contratType": "B",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 400,
+		"contratType": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 400,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":65
+	},
+
+	{
+		"soinId": 500,
+		"contratType": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 500,
+		"contratType": "B",
+		"pourcentage": 50,
+		"maximum":50
+	},
+	{
+		"soinId": 500,
+		"contratType": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 500,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":75
+	},
+
+	{
+		"soinId": 600,
+		"contratType": "A",
+		"pourcentage": 40
+	},
+	{
+		"soinId": 600,
+		"contratType": "B",
+		"pourcentage": 100
+	},
+	{
+		"soinId": 600,
+		"contratType": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 600,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":100
+	},
+
+	{
+		"soinId": 700,
+		"contratType": "A",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 700,
+		"contratType": "B",
+		"pourcentage": 70
+	},
+	{
+		"soinId": 700,
+		"contratType": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 700,
+		"contratType": "D",
+		"pourcentage": 100,
+		"maximum":90
+	}
+]
+}

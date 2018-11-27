@@ -1,0 +1,182 @@
+{
+	couvertures:[
+	{
+		"soinId": 1,
+		"typeContrat": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 1,
+		"typeContrat": "B",
+		"pourcentage": 50,
+		"maximum":40
+	},
+	{
+		"soinId": 1,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 1,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":85
+	},
+
+	{
+		"soinId": 2,
+		"typeContrat": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 2,
+		"typeContrat": "B",
+		"pourcentage": 50,
+		"maximum":50
+	},
+	{
+		"soinId": 2,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 2,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":75
+	},
+
+	{
+		"soinId": 3,
+		"typeContrat": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 3,
+		"typeContrat": "B",
+		"pourcentage": 100,
+		"maximum":70
+	},
+	{
+		"soinId": 3,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 3,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":100
+	},
+
+	{
+		"soinId": 4,
+		"typeContrat": "A",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 4,
+		"typeContrat": "B",
+		"pourcentage": 50
+	},
+	{
+		"soinId": 4,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 4,
+		"typeContrat": "D",
+		"pourcentage": 100
+	},
+
+	{
+		"soinId": 5,
+		"typeContrat": "A",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 5,
+		"typeContrat": "B",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 5,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 5,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":65
+	},
+	
+	{
+		"soinId": 6,
+		"typeContrat": "A",
+		"pourcentage": 25
+	},
+	{
+		"soinId": 6,
+		"typeContrat": "B",
+		"pourcentage": 50,
+		"maximum":50
+	},
+	{
+		"soinId": 6,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 6,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":75
+	},
+
+	{
+		"soinId": 7,
+		"typeContrat": "A",
+		"pourcentage": 40
+	},
+	{
+		"soinId": 7,
+		"typeContrat": "B",
+		"pourcentage": 100
+	},
+	{
+		"soinId": 7,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 7,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":100
+	},
+
+	{
+		"soinId": 8,
+		"typeContrat": "A",
+		"pourcentage": 0
+	},
+	{
+		"soinId": 8,
+		"typeContrat": "B",
+		"pourcentage": 70
+	},
+	{
+		"soinId": 8,
+		"typeContrat": "C",
+		"pourcentage": 90
+	},
+	{
+		"soinId": 8,
+		"typeContrat": "D",
+		"pourcentage": 100,
+		"maximum":90
+	}
+	]
+}

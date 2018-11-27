@@ -1,0 +1,44 @@
+{	soins:[
+	{
+		"id": 1,
+		"num": 0,
+		"categorie": "Massothérapie"
+	},
+	{
+		"id": 2,
+		"num": 100,
+		"categorie": "Ostéopathie"
+	},
+	{
+		"id": 3,
+		"num": 200,
+		"categorie": "Psychologie individuelle"
+	},
+	{
+		"id": 4,
+		"num": 300,
+		"numMaxRange": 399,
+		"categorie": "Soins dentaires"
+	},
+	{
+		"id": 5,
+		"num": 400,
+		"categorie": "Naturopathie, acuponcture"
+	},
+	{
+		"id": 6,
+		"num": 500,
+		"categorie": "Chiropratie"
+	},
+	{
+		"id": 7,
+		"num": 600,
+		"categorie": "Physiothérapie"
+	},
+	{
+		"id": 8,
+		"num": 700,
+		"categorie": "Orthophonie, ergothérapie"
+	}
+	]
+}
